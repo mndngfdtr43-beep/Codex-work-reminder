@@ -1,0 +1,13 @@
+.venv/
+.tools/
+.local/
+build/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.env
+.env.*
+*.pem
+*.key
+config.local.*
